@@ -1,3 +1,7 @@
+# NODE_MODULES
+/node_modules
+.gitignore
+.env
 # Build and Release Folders
 bin-debug/
 bin-release/
